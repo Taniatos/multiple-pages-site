@@ -1,0 +1,27 @@
+.container {
+  display: block;
+  margin: 0 auto;
+  max-width: 600px;
+  height: 480px;
+  background-color: #f3eed9;
+  border-radius: 20px;
+  text-align: center;
+}
+h1 {
+  color: #3c3412;
+  font-size: 48px;
+}
+p {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+  font-weight: 300;
+  margin: 40px;
+}
+a {
+  color: #403b24;
+  background-color: #ccba68;
+  margin: 20px;
+  padding: 10px 16px;
+  border-radius: 8px;
+  box-shadow: #403b24;
+}
