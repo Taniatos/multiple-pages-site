@@ -7,9 +7,28 @@
   border-radius: 20px;
   text-align: center;
 }
+.containerPhoto {
+  display: block;
+  margin: 0 auto;
+  max-width: 600px;
+  height: 500px;
+  background-color: #f3eed9;
+  border-radius: 20px;
+  text-align: center;
+}
+.containerContact {
+  display: block;
+  margin: 0 auto;
+  max-width: 600px;
+  height: 260px;
+  background-color: #f3eed9;
+  border-radius: 20px;
+  text-align: center;
+}
 h1 {
   color: #3c3412;
   font-size: 48px;
+  margin-top: 20px;
 }
 p {
   font-family: "Times New Roman", Times, serif;
@@ -26,5 +45,12 @@ a {
   box-shadow: #403b24;
 }
 img {
-  max-width: 500px;
+  max-width: 400px;
+  display: block;
+  margin: 0 auto;
+  border-radius: 20px;
+}
+.buttons {
+  margin-top: 40px;
+  margin-bottom: 20px;
 }
