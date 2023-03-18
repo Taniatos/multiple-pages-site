@@ -25,3 +25,6 @@ a {
   border-radius: 8px;
   box-shadow: #403b24;
 }
+img {
+  max-width: 500px;
+}
